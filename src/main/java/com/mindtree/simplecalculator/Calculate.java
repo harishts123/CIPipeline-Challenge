@@ -1,5 +1,5 @@
 package com.mindtree.simplecalculator;
-
+//tetsing 
 public class Calculate {
 	public static int add(int x, int y)
 	{
